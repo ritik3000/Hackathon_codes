@@ -1,2 +1,2 @@
-# mushroom_classidication
-It classifies mushroom based on their features into two classes poisonous &amp; non-poisonous
+# Hackathons
+It consist of the data and corresponding Ipynb files for the hackathons.
